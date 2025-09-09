@@ -6,7 +6,7 @@ Learning web development
 
 *   🌍  I'm based in Delhi
 *   ✉️  You can contact me at [tanmayjain26102006@gmail.com](mailto:tanmayjain26102006@gmail.com)
-*   🧠  I'm learning Python### Skills 
+*   🧠  I have learned Python, java and now learning c++### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                     </p>
